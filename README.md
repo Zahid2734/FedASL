@@ -4,7 +4,7 @@
 
 This repository is the official implementation of FedASL-
 <p align="center" width="100%">
-    <img width="66%" src="images/Architecture.jpg">
+    <img width="66%" src="images/FL arch new.pdf">
 </p>
 
 >📋 we propose, FedASL (Federated
