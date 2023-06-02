@@ -7,7 +7,14 @@ This repository is the official implementation of FedASL-
     <img width="66%" src="images/Architecture.jpg">
 </p>
 
->📋 we propose a novel hardware-sensitive FL method called FairHeteroFL that promotes fairness among heterogeneous federated clients. Our approach offers tunable fairness within a group of devices with the same ML architecture as well as across different groups. Our evaluation under MNIST, FEMNIST, CIFAR10, and SHAKESPEARE datasets reveals that FairHeteroFL can reduce variance among participating clients’ test loss compared to the existing state-of-the-art techniques, resulting in increased overall performances
+>📋 we propose, FedASL (Federated
+Learning with Auto-weighted Aggregation based on Standard
+Deviation of Training Loss) which uses only the local training
+loss of FL clients for auto-weighting the model aggregation.
+Our evaluation under three different datasets and various data
+corruption scenarios reveals that FedASL can effectively thwart
+data corruption from bad clients while causing as little as one-
+tenth of the computation cost of existing approaches.
 
 ## Requirements
 
