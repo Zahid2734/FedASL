@@ -2,7 +2,7 @@
 
 # FedASL: Computationally Efficient Auto-Weighted Aggregation for Heterogeneous Federated Learning
 
-This repository is the official implementation of FedASL-
+This repository is the official implementation of [FedASL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9860312)-
 <p align="center" width="100%">
     <img width="66%" src="images/FL arch new.png">
 </p>
